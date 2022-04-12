@@ -1,0 +1,52 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+}
+
+.center{
+    font-family: cursive;
+    font-style: oblique;
+    text-align: center;
+}
+
+.footer{
+    height: 50%;
+    background-color: lightskyblue;
+    color: white;
+}
+
+.body{
+    align-content: center;
+}
+
+.header{
+    height: 80%;
+    background-color: lightskyblue;
+    line-height: 110%;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+h2{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.top{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+#top{
+    color: blue;
+}
